@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Orangehrm")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("EPAM Systems")]
+[assembly: AssemblyCompany("my_company")]
 [assembly: AssemblyProduct("Orangehrm")]
-[assembly: AssemblyCopyright("Copyright © EPAM Systems 2018")]
+[assembly: AssemblyCopyright("Copyright © Yaroslav Buts")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
